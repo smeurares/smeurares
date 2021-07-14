@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smeurares
-- 👀 I’m interested in React and Redux
+- 👀 I’m interested in React and Redux and recently I found out the I like backend, for now I built an API with Express!
 - 🌱 I’m currently learning Front End course on CodeCademy!
 - 💞️ I’m looking to collaborate on small projects based on React!
 - 📫 How to reach me smeurares@gmail.com
